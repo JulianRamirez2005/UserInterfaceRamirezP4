@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1736779899192989966}
   - component: {fileID: 1427033476215041809}
   - component: {fileID: 1625104396650428457}
+  - component: {fileID: 8974230320216473096}
   m_Layer: 0
   m_Name: Synty_Cube_01
   m_TagString: Untagged
@@ -114,3 +115,15 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8974230320216473096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1750732350653529986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5de7711cb34704646b4da88e9dcf16b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
