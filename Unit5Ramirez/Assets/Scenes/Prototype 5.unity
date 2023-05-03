@@ -702,6 +702,7 @@ MonoBehaviour:
   - {fileID: 5334313177753627988, guid: f2cb1c7fbe2c68045915ed582f54553f, type: 3}
   - {fileID: 3102476787881404561, guid: ffba0874654393242b0b1dfee5fadd79, type: 3}
   - {fileID: 1750732350653529986, guid: f3bdd6ad940c3904e8df8ef39c21cbdd, type: 3}
+  scoreText: {fileID: 5928105}
 --- !u!1 &1611319330
 GameObject:
   m_ObjectHideFlags: 0
